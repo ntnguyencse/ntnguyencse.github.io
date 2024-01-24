@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Nguyen Thanh Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nguyen Thanh Nguyen
 
 # Full name (for SEO)
 first_name: Shiung Wu
