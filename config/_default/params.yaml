@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Thanh Nguyen's website. An engineer with expertise in system design, microservices, and Kubernetes.'
+    description: 'Thanh Nguyen\'s website. An engineer with expertise in system design, microservices, and Kubernetes.'
     twitter: 'donthavetwitter'
   analytics:
     google_analytics: ''
