@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
-env:
-  WC_HUGO_VERSION: '0.119.0'
+# env:
+#   WC_HUGO_VERSION: '0.119.0'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -24,17 +24,23 @@ jobs:
   # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
+      - name: Read .env
+        id: hugo-version
+        run: |
+          . ./.env
+          echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: ${{ env.WC_HUGO_VERSION }}
+          # hugo-version: ${{ env.WC_HUGO_VERSION }}
+          hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
           extended: true
       - uses: actions/cache@v3
         with:
