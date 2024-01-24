@@ -6,16 +6,16 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  title: 'Personal site'
+  title: Personal site
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 vn:
   languageCode: vn
   contentDir: content/vn
-  title: 'Trang ca nhan'
-#  params:
-#    description: Site description in Chinese...
+  title: Trang ca nhan
+  params:
+    description: Site description in VietNamese...
 #  menu:
 #    main:
 #      - name: 传
