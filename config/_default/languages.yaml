@@ -11,14 +11,12 @@ en:
   contentDir: content/en
   params:
     description: Site description in English...
-  weight: 1
 # Uncomment the lines below to configure your website in a second language.
 vn:
   languageCode: vn
   contentDir: content/vn
   title: Trang ca nhan
   languageName: VietNamese
-  weight: 2
   params:
     description: Site description in VietNamese...
 #  menu:
