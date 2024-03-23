@@ -3,7 +3,7 @@
 title: Nguyen Thanh Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: Nguyen Thanh Nguyen
+name_pronunciation: Nguyễn Thành Nguyên
 
 # Full name (for SEO)
 first_name: Thanh-Nguyen
