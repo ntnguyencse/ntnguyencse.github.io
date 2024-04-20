@@ -1,6 +1,6 @@
 # [Creator's Blog: Hugo Theme](https://github.com/HugoBlox/theme-blog)
 
-[![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
+[![Deploy website to GitHub Pages](https://github.com/ntnguyencse/ntnguyencse.github.io/actions/workflows/publish.yaml/badge.svg)](https://github.com/ntnguyencse/ntnguyencse.github.io/actions/workflows/publish.yaml)
 
 The **Creator's Blog** Hugo Theme empowers you to easily create your own _personal blog_ or _build a business around your content_.
 
