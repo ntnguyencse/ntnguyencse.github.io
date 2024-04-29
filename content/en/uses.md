@@ -15,8 +15,12 @@ I often get asked about what software or hardware I use, so this page will serve
 
 - [Visual Studio Code](https://code.visualstudio.com/) is my current editor
 - Chrome is my main browser
-- iTerm2 is my terminal
+- ohmyzsh is my terminal
 
 ## Desktop Apps
 
 - Better Touch Tool for window management and custom keyboard shortcuts
+
+## My Gear
+
+- Akko 3098 and Manlab Mouse BM201
