@@ -58,3 +58,6 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
+marketing:
+  analytics:
+    google_analytics: 'G-Q9RRM1QYL9'
