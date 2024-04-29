@@ -11,6 +11,8 @@ en:
   contentDir: content/en
   params:
     description: Site description in English...
+    assets:
+      favicon: "/static/favicon.ico"
   
 # Uncomment the lines below to configure your website in a second language.
 #vn:
