@@ -6,13 +6,13 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  title: Personal site
+  title: Nguyen's Blog
   languageName: English
   contentDir: content/en
   params:
     description: Site description in English...
     assets:
-      favicon: "/static/favicon.ico"
+      favicon: "assets/media/icon.png"
   
 # Uncomment the lines below to configure your website in a second language.
 #vn:

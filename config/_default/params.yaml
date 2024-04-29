@@ -58,6 +58,17 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
+  # comment:
+  #   # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+  #   provider: 'giscus'
+  #   giscus:
+  #     repo: 'github.com/'
+  #     repo_id: ''
+  #     category: ''
+  #     category_id: ''
+  #     theme: preferred_color_scheme
+  #     language_code: en
+  #     mapping: pathname
 marketing:
   analytics:
     google_analytics: 'G-Q9RRM1QYL9'

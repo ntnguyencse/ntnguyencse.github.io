@@ -2,6 +2,7 @@
 title: Central Grafana monitoring multiple distributed EKS (Part 1)
 summary: Full controll solution for monitoring distributed EKS
 date: 2024-04-29
+commentable: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
